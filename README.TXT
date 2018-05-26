@@ -1,3 +1,18 @@
+PROJECT TITLE: Movies3
+PURPOSE OF PROJECT: Lecture Exercise
+VERSION or DATE: 1.1
+HOW TO START THIS PROJECT: package.bluej
+AUTHORS: Justin Voitel, Niklas, Hermes
+USER INSTRUCTIONS: 
+
+Tasks
+1. Create a list with all american movies published 2000-2005
+	-create MovieDB Object
+	-call printMoviesByYear() method
+	-Input Intervall: from year, to year
+2. Delete all movies with the most awkward main characters.
+	-call setAwkward() method and input movie title you want to set 
+	-call deleteAllAwkward() method to delete all movies, whose variable akward is set to true
 
 1.) Ausgabe nach Selektion und evtl. Umwandlung (also wie: alle Sightings von Elefanten in einem bestimmten Gebiet, Umwandlung: map to string oder reduce um die Gesamtsumme zu berechnen)
 
